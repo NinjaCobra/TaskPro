@@ -49,7 +49,7 @@
 ![TaskPro mobile](./src/images/readmeImages/2023-07-04174539.png)
 
  # Installation
-1. Clone the repository: git clone https://github.com/ukrwebprom/TaskPro/tree/main 
+1. Clone the repository: git clone https://github.com/ninjacobra/TaskPro/tree/main 
 2. Navigate to the project directory: cd TaskPro 
 3. Install dependencies: npm install
 
@@ -70,22 +70,6 @@
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
-
-**Authors:**
-https://www.linkedin.com/in/yuri-pochtennykh/
-https://www.linkedin.com/in/vadym-popov/
-https://www.linkedin.com/in/anastasiya-kor/
-https://www.linkedin.com/in/yuri-pochtennykh/
-https://www.linkedin.com/in/volodymyr-mospan/
-https://www.linkedin.com/in/katherina-fanina/
-https://www.linkedin.com/in/zoya-bukhantseva/
-https://www.linkedin.com/in/anton-tsylepa/
-https://www.linkedin.com/in/oleksii-stotskyi-397951265/
-https://www.linkedin.com/in/vasyl-p-73246057
-https://www.linkedin.com/in/serhiy-danylko-378833209/
-https://www.linkedin.com/in/rostyslav-kryvovyaz/
-http://linkedin.com/in/руслан-самігулін-7b61807a
-https://www.linkedin.com/in/tetiana-mienkova/
 
 **Acknowledgments:**
 We would like to thank GOIT for their valuable advice, support, and contribution to the project: 
